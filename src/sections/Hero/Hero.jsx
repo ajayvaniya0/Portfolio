@@ -41,11 +41,11 @@ function Hero() {
             </h1>
             <h2>Frontend Developer</h2>
             <span>
-                <a href="https://twitter.com" target="_blank">
+                <a href="https://x.com/_ajay_vaniya_" target="_blank">
                 <img src={twitterIcon} alt="Twitter icon" /></a>
                 <a href="https://github.com/ajayvaniya0" target="_blank">
                 <img src={githubIcon} alt="Github icon" /></a>
-                <a href="https://linkedin.com" target="_blank">
+                <a href="https://www.linkedin.com/in/ajay-vaniya-482053256/" target="_blank">
                 <img src={linkedinIcon} alt="Linkedin icon" /></a>
             </span>
             <p className={styles.description}>With a passion for developing modern Cross-Plaform Apps for commercial businesses.</p>
