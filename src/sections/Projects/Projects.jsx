@@ -12,7 +12,7 @@ function Projects() {
         <h1 className='sectionTitle'>Projects</h1>
         <div className={styles.projectsContainer}>
             <ProjectCard src={viberr} link={"https://github.com/ajayvaniya0/ReactTodoApp"}
-            h3="Viberr"
+            h3="ToDo"
             p="TodoList App"
             />
             <ProjectCard src={freshBurger} link={"https://github.com/ajayvaniya0/Restaurent-Website-Project"}
@@ -23,8 +23,8 @@ function Projects() {
             h3="WeatherFast"
             p="Weather App"
             />
-            <ProjectCard src={fitLift} link={"https://github.com/ajayvaniya0/Backend-series"}
-            h3="Yoube"
+            <ProjectCard src={fitLift} link={"https://swoley-gym-fit.vercel.app/"}
+            h3="swoley-fit"
             p="youtube backend App"
             />
         </div>
