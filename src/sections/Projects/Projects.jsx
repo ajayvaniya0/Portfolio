@@ -25,7 +25,7 @@ function Projects() {
             />
             <ProjectCard src={fitLift} link={"https://swoley-gym-fit.vercel.app/"}
             h3="swoley-fit"
-            p="youtube backend App"
+            p="Gym Workout App"
             />
         </div>
       </section>
